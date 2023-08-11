@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * main - Entry point
+ * main - Prints "and that piece of art is useful" 
  *                
  *
  * Return: Always 1 (pass)
