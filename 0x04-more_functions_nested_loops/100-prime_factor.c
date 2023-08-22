@@ -15,7 +15,6 @@ int main(void)
 	{
 		if (n % i == 0)
 		{
-
 			printf("%ld\n", i);
 			break;
 		}
@@ -24,3 +23,4 @@ int main(void)
 	}
 	return (0);
 }
+
