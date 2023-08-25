@@ -8,7 +8,7 @@
  *
  * Return: a pointer to the resulting string
  */
-char *_strcat(char *dest, char *src)
+char *_strncat(char *dest, char *src)
 {
-	return (strcat(dest, src));
+	return (strncat(dest, src));
 }
